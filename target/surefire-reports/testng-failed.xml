@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="1" data-provider-thread-count="1" name="Failed suite [matpat.carina.demo.WeatherAPITest]" verbose="0">
+  <test thread-count="1" name="Command line test(failed)" verbose="0">
+    <classes>
+      <class name="matpat.carina.demo.WeatherAPITest">
+        <methods>
+          <include name="testGetWeather"/>
+        </methods>
+      </class> <!-- matpat.carina.demo.WeatherAPITest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [matpat.carina.demo.WeatherAPITest] -->

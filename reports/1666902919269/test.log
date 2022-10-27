@@ -1,0 +1,20 @@
+[2022-10-27 08:35:19] [1] [INFO] 
+============= Test configuration =============
+url=https://www.gsmarena.com
+env=DEMO
+auto_screenshot=true
+project_report_directory=./reports
+max_screen_history=10
+localization_encoding=UTF-8
+selenium_url=
+
+------------- Driver capabilities -----------
+================================================
+
+[2022-10-27 08:35:19] [1] [WARN] Reporting disabled: using no op test run registrar
+[2022-10-27 08:35:19] [1] [INFO] Reflections took 509 ms to scan 11 urls, producing 2593 keys and 12644 values 
+[2022-10-27 08:35:19] [1] [INFO] Set thread-count=1
+[2022-10-27 08:35:19] [1] [INFO] Set data-provider-thread-count=1
+[2022-10-27 08:35:19] [1] [INFO] CARINA_CORE_VERSION: 7.4.26
+[2022-10-27 08:35:21] [1] [INFO] INFO: '**************** Test execution summary ****************'.
+[2022-10-27 08:35:21] [1] [INFO] RESULT #1: TEST [Command line test - testGetWeather] FAIL [log=file://C:\Users\matpa\IdeaProjects\carinaTests\carinatests\.\reports\1666902919269/cdd0ff2c-435f-44b5-958e-f783cea86656/test.log]
